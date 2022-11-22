@@ -82,7 +82,7 @@ After EDA we built an RFM-based model for finding segments where R is Recency(ho
 ## Results: 
 
 **Cluster Summary:** 
-
+`
 +---------+----------------------------------------+------+---------------------------+
 | Sr. No. |               Model_Name               | Data | Optimal_Number_of_cluster |
 +---------+----------------------------------------+------+---------------------------+
@@ -92,7 +92,7 @@ After EDA we built an RFM-based model for finding segments where R is Recency(ho
 |    4    |       Hierarchical clustering          | RFM  |             2             |
 |    5    | Hierarchical clustering after Cut-off  | RFM  |             3             |
 +---------+----------------------------------------+------+---------------------------+
-
+`
 
 
 
