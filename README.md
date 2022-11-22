@@ -82,25 +82,8 @@ After EDA we built an RFM-based model for finding segments where R is Recency(ho
 ## Results: 
 
 **Cluster Summary:** 
-`
-+---------+----------------------------------------+------+---------------------------+
-| Sr. No. |               Model_Name               | Data | Optimal_Number_of_cluster |
-+---------+----------------------------------------+------+---------------------------+
-|    1    |                K-Means                 | RFM  |             3             |
-|    2    |     K-Means with silhouette_score      | RFM  |             2             |
-|    3    |      K-Means with Elbow method         | RFM  |             4             |
-|    4    |       Hierarchical clustering          | RFM  |             2             |
-|    5    | Hierarchical clustering after Cut-off  | RFM  |             3             |
-+---------+----------------------------------------+------+---------------------------+
-`
 
-
-
-
-
-
-
-
+![Model scoresss](https://user-images.githubusercontent.com/104018984/203347839-e4169afe-14a3-468a-8bb8-984b9de872c9.png)
 
 
 
